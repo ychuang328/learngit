@@ -1,3 +1,2 @@
 git is free software
-git is version management
-git is the best tools
+git is a distributed version control system.
